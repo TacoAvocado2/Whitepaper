@@ -1,7 +1,7 @@
-# **RoyalHash: The Most Advanced Blockchain in the World**
+# **XP1: The Most Advanced Blockchain in the World**
 
 ## **1. Introduction**
-RoyalHash is the world’s most **secure, scalable, AI-powered, and quantum-resistant blockchain** designed for **finance, AI computation, decentralized internet, healthcare, identity, and governance**. By integrating **multi-layer security, real-world applications, and adaptive scalability**, RoyalHash is the **backbone of the next-generation global economy.**
+XP1 is the world’s most **secure, scalable, AI-powered, and quantum-resistant blockchain** designed for **finance, AI computation, decentralized internet, healthcare, identity, and governance**. By integrating **multi-layer security, real-world applications, and adaptive scalability**, RoyalHash is the **backbone of the next-generation global economy.**
 
 ## **2. Core Objectives**
 ✅ **Quantum-resistant security & AI-driven fraud detection**  
@@ -14,10 +14,10 @@ RoyalHash is the world’s most **secure, scalable, AI-powered, and quantum-resi
 
 ---
 
-## **3. RoyalHash Algorithm & Blockchain Architecture**
+## **3. XP1 Algorithm & Blockchain Architecture**
 | **Feature**                  | **Description** |
 |------------------------------|----------------|
-| **Algorithm**                | RoyalHash (Hybrid Proof-of-Work + Proof-of-Computation + AI Verification) |
+| **Algorithm**                | XP1 (Hybrid Proof-of-Work + Proof-of-Computation + AI Verification) |
 | **Block Time**               | 5 seconds (Dynamically adjusts based on network load) |
 | **Consensus Mechanism**      | Hybrid AI-PoW + PoS + Quantum-Resistant Signatures |
 | **Post-Quantum Security**    | CRYSTALS-Kyber, CRYSTALS-Dilithium, Falcon encryption |
